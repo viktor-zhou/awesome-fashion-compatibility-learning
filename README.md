@@ -21,19 +21,19 @@ markdown format:
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
 
-<details><summary>Table of Contents</summary><p></details>
+# Table of Contents
 
-## 2022
+### 2022
 
-## 2021
+### 2021
 
-## 2020
+### 2020
 
-## 2019
+### 2019
 
-## 2018
+### 2018
 
-## 2017
+### 2017
 
 
 
@@ -41,9 +41,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 *Xintong Han, Zuxuan Wu, Yu-Gang Jiang, Larry S. Davis.*<br>
 ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](https://github.com/xthan/polyvore)]<br>
 
-## 2016
+### 2016
 
-## 2015
+### 2015
 **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences.** <br>
 
 **Image-based Recommendations on Styles and Substitutes.**<br> 
@@ -51,7 +51,7 @@ ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](htt
 SIGIR 2015. [[PDF](https://dl.acm.org/doi/10.1145/2766462.2767755)] [[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)]<br>
 
 
-# Citation
+## Citation
 
 ```
 @inproceedings{fashionintelligence,
