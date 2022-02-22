@@ -21,7 +21,7 @@ markdown format:
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
 
-<details><summary>Table of Contents</summary><p>
+<details><summary>Table of Contents</summary><p></details>
 
 ## 2022
 
@@ -50,7 +50,6 @@ ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](htt
 *Julian McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel*<br>
 SIGIR 2015. [[PDF](https://dl.acm.org/doi/10.1145/2766462.2767755)] [[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)]<br>
 
-</details>
 
 # Citation
 
