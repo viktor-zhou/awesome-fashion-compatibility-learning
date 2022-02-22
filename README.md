@@ -54,7 +54,7 @@ SIGIR 2015. [[PDF](https://dl.acm.org/doi/10.1145/2766462.2767755)] [[Code](http
 ## Citation
 
 ```
-@inproceedings{fashionintelligence,
+@misc{fashionintelligence_compatibility,
   title={Fashion Intelligence: {Awesome} Fashion Compatibility Learning},
   author={Dongliang Zhou},
   publisher = {GitHub},
