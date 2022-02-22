@@ -45,7 +45,7 @@ ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](htt
 
 ### 2015
 **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences.** <br>
-*Andreas Veit, Balazs Kovacs, Sean Bell, Julian McAuley, Kavita Bala1, Serge Belongie.*<br>
+*Andreas Veit, Balazs Kovacs, Sean Bell, Julian McAuley, Kavita Bala, Serge Belongie.*<br>
 ICCV 2015. [[PDF](https://ieeexplore.ieee.org/document/7410884)] [[Code](https://github.com/appier/compatibility-family-learning)]<br>
 
 **Image-based Recommendations on Styles and Substitutes.**<br> 
