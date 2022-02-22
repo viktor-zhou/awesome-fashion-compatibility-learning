@@ -20,3 +20,47 @@ markdown format:
 *[Author 1](homepage), Author 2, and Author 3.*<br>
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
+
+<details><summary>Table of Contents</summary><p>
+
+## 2022
+
+## 2021
+
+## 2020
+
+## 2019
+
+## 2018
+
+## 2017
+
+
+
+**Bi-LSTM Model for Learning Fashion Compatibility.** <br> 
+*Xintong Han, Zuxuan Wu, Yu-Gang Jiang, Larry S. Davis.*<br>
+ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](https://github.com/xthan/polyvore)]<br>
+
+## 2016
+
+## 2015
+**Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences.** <br>
+
+**Image-based Recommendations on Styles and Substitutes.**<br> 
+*Julian McAuley, Christopher Targett, Qinfeng Shi, Anton van den Hengel*<br>
+SIGIR 2015. [[PDF](https://dl.acm.org/doi/10.1145/2766462.2767755)] [[Code](https://cseweb.ucsd.edu/~jmcauley/code/imageGraph.tar.gz)]<br>
+
+</details>
+
+# Citation
+
+```
+@inproceedings{fashionintelligence,
+  title={Fashion Intelligence: {Awesome} Fashion Compatibility Learning},
+  author={Dongliang Zhou},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/fashion-intelligence/awesome-fashion-compatibility-learning}},
+  year={2022}
+}
+```
