@@ -21,7 +21,7 @@ markdown format:
 Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
 ```
 
-# Table of Contents
+## Table of Contents
 
 ### 2022
 
