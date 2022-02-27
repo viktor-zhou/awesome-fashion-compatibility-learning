@@ -53,7 +53,15 @@ WWW 2019. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313444)] [[Cod
 *Xin Wang, Bo Wu, Yueqi Zhong.*<br>
 ACM MM 2019. [[PDF](https://dl.acm.org/doi/10.1145/3343031.3350909)] [[Code](https://github.com/WangXin93/fashion_compatibility_mcn)] [[Data](https://github.com/WangXin93/fashion_compatibility_mcn/tree/master/data)]<br>
 
+**TransNFCM: Translation-Based Neural Fashion Compatibility Modeling.** <br> 
+*Xun Yang, Yunshan Ma, Lizi Liao, Meng Wang, Tat-Seng Chua.*<br>
+AAAI 2019. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/3811/3689)]<br>
+
 ### 2018
+
+**Learning Type-Aware Embeddings for Fashion Compatibility.** <br> 
+*Mariya I. Vasileva, Bryan A. Plummer, Krishna Dusad, Shreya Rajpal, Ranjitha Kumar, David Forsyth.*<br>
+ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf)] [[Code](https://github.com/mvasil/fashion-compatibility)]<br>
 
 ### 2017
 
