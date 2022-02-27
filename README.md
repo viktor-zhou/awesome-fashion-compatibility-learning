@@ -53,6 +53,10 @@ TNNLS 2020. [[PDF](https://ieeexplore.ieee.org/document/8891673)]<br>
 SIGIR 2020. [[PDF](https://dl.acm.org/doi/10.1145/3397271.3401080)] [[Code](https://github.com/xcppy/hierarchical_fashion_graph_network)]<br>
 
 ### 2019
+**Context-Aware Visual Compatibility Prediction.** <br> 
+*Guillem Cucurull, Perouz Taslakian, David Vazquez.*<br>
+CVPR 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8953357)] [[Code](https://github.com/gcucurull/visual-compatibility)]<br>
+
 **Personalized Fashion Design.** <br> 
 *Cong Yu, Yang Hu, Yan Chen, Bing Zeng.*<br>
 ICCV 2019. [[PDF](https://ieeexplore.ieee.org/document/9010857)]<br>
