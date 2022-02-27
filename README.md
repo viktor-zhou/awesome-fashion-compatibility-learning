@@ -52,6 +52,10 @@ TNNLS 2020. [[PDF](https://ieeexplore.ieee.org/document/8891673)]<br>
 *Xingchen Li, Xiang Wang, Xiangnan He, Long Chen, Jun Xiao, Tat-Seng Chua.*<br>
 SIGIR 2020. [[PDF](https://dl.acm.org/doi/10.1145/3397271.3401080)] [[Code](https://github.com/xcppy/hierarchical_fashion_graph_network)]<br>
 
+**Learning Tuple Compatibility for Conditional Outfit Recommendation.** <br> 
+*Xuewen Yang, Dongliang Xie, Xin Wang, Jiangbo Yuan, Wanying Ding, Pengyun Yan.*<br>
+ACM MM 2020. [[PDF](https://dl.acm.org/doi/10.1145/3394171.3413936)]<br>
+
 ### 2019
 **Context-Aware Visual Compatibility Prediction.** <br> 
 *Guillem Cucurull, Perouz Taslakian, David Vazquez.*<br>
