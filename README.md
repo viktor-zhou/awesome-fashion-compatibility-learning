@@ -49,6 +49,10 @@ ICCV 2019. [[PDF](https://ieeexplore.ieee.org/document/9010857)]<br>
 *Zeyu Cui, Zekun Li, Shu Wu, Xiao-Yu Zhang, Liang Wang.*<br>
 WWW 2019. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313444)] [[Code](https://github.com/CRIPAC-DIG/NGNN)]<br>
 
+**GP-BPR: Personalized Compatibility Modeling for Clothing Matching.** <br> 
+*Xuemeng Song, Xianjing Han, Yunkai Li, Jingyuan Chen, Xin-Shun Xu, Liqiang Nie.*<br>
+ACM MM 2019. [[PDF](https://dl.acm.org/doi/10.1145/3343031.3350956)] [[Code](https://xuemengsong.github.io/GPBPRcode.zip)]<br>
+
 **Outfit Compatibility Prediction and Diagnosis with Multi-Layered Comparison Network.** <br> 
 *Xin Wang, Bo Wu, Yueqi Zhong.*<br>
 ACM MM 2019. [[PDF](https://dl.acm.org/doi/10.1145/3343031.3350909)] [[Code](https://github.com/WangXin93/fashion_compatibility_mcn)] [[Data](https://github.com/WangXin93/fashion_compatibility_mcn/tree/master/data)]<br>
