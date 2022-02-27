@@ -28,9 +28,21 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Vid
 ### 2021
 
 ### 2020
+**Collocating Clothes With Generative Adversarial Networks Cosupervised by Categories and Attributes: A Multidiscriminator Framework.** <br> 
+*Linlin Liu, Haijun Zhang, Xiaofei Xu, Zhao Zhang, Shuicheng Yan.*<br>
+TNNLS 2020. [[PDF](https://ieeexplore.ieee.org/document/8891673)]<br>
+**Hierarchical Fashion Graph Network for Personalized Outfit Recommendation.** <br> 
+*Xingchen Li, Xiang Wang, Xiangnan He, Long Chen, Jun Xiao, Tat-Seng Chua.*<br>
+SIGIR 2020. [[PDF](https://dl.acm.org/doi/10.1145/3397271.3401080)] [[Code](https://github.com/xcppy/hierarchical_fashion_graph_network)]<br>
 
 ### 2019
+**Personalized Fashion Design.** <br> 
+*Cong Yu, Yang Hu, Yan Chen, Bing Zeng.*<br>
+ICCV 2019. [[PDF](https://ieeexplore.ieee.org/document/9010857)]<br>
 
+**Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks.** <br> 
+*Zeyu Cui, Zekun Li, Shu Wu, Xiao-Yu Zhang, Liang Wang.*<br>
+WWW 2019. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313444)] [[Code](https://github.com/CRIPAC-DIG/NGNN)]<br>
 ### 2018
 
 ### 2017
