@@ -67,7 +67,7 @@ ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_
 
 **NeuroStylist: Neural Compatibility Modeling for Clothing Matching.** <br> 
 *Xuemeng Song, Fuli Feng, Jinhuan Liu, Zekun Li, Liqiang Nie, Jun Ma.*<br>
-ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123314)] [[Code](https://xuemengsong.github.io/BPR-DAE.py)] [[Data](https://xuemengsong.github.io/fashionvc.html)]<br>
+ACM MM 2017. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123314)] [[Code](https://xuemengsong.github.io/BPR-DAE.py)] [[Data](https://xuemengsong.github.io/fashionvc.html)]<br>
 
 **Bi-LSTM Model for Learning Fashion Compatibility.** <br> 
 *Xintong Han, Zuxuan Wu, Yu-Gang Jiang, Larry S. Davis.*<br>
