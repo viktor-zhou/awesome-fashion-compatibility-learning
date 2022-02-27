@@ -26,12 +26,24 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Vid
 ### 2022
 
 ### 2021
+**Attribute-wise Explainable Fashion Compatibility Modeling.** <br> 
+*Xin Yang, Xuemeng Song, Fuli Feng, Haokun Wen, Ling-Yu Duan, Liqiang Nie.*<br>
+TOMCCAP 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3425636)]<br>
 
 **Collocation and Try-on Network: Whether an Outfit is Compatible.** <br> 
 *Na Zheng, Xuemeng Song, Qingying Niu, Xue Dong, Yibing Zhan, Liqiang Nie.*<br>
 ACM MM 2021. [[PDF](https://dl.acm.org/doi/10.1145/3474085.3475691)] [[Code](https://compatibilitymodel.wixsite.com/cto-net)]<br>
 
 ### 2020
+
+**Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme.** <br> 
+*Xue Dong, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie.*<br>
+SIGIR 2020. [[PDF](https://dl.acm.org/doi/abs/10.1145/3397271.3401047)] [[Code](https://dxresearch.wixsite.com/tryon-cm)]<br>
+
+**Learning to Match on Graph for Fashion Compatibility Modeling.** <br> 
+*Xun Yang, Xiaoyu Du, Meng Wang.*<br>
+AAAI 2020. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/5362)]<br>
+
 **Collocating Clothes With Generative Adversarial Networks Cosupervised by Categories and Attributes: A Multidiscriminator Framework.** <br> 
 *Linlin Liu, Haijun Zhang, Xiaofei Xu, Zhao Zhang, Shuicheng Yan.*<br>
 TNNLS 2020. [[PDF](https://ieeexplore.ieee.org/document/8891673)]<br>
