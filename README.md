@@ -87,6 +87,10 @@ AAAI 2019. [[PDF](https://ojs.aaai.org/index.php/AAAI/article/view/3811/3689)]<b
 *Mariya I. Vasileva, Bryan A. Plummer, Krishna Dusad, Shreya Rajpal, Ranjitha Kumar, David Forsyth.*<br>
 ECCV 2018. [[PDF](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mariya_Vasileva_Learning_Type-Aware_Embeddings_ECCV_2018_paper.pdf)] [[Code](https://github.com/mvasil/fashion-compatibility)]<br>
 
+**Creating Capsule Wardrobes from Fashion Images.** <br> 
+*Wei-Lin Hsiao, Kristen Grauman.*<br>
+CVPR 2018. [[PDF](https://ieeexplore.ieee.org/document/8578846)]<br>
+
 ### 2017
 
 **NeuroStylist: Neural Compatibility Modeling for Clothing Matching.** <br> 
