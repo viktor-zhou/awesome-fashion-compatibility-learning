@@ -27,10 +27,15 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Vid
 
 ### 2021
 
+**Collocation and Try-on Network: Whether an Outfit is Compatible.** <br> 
+*Na Zheng, Xuemeng Song, Qingying Niu, Xue Dong, Yibing Zhan, Liqiang Nie.*<br>
+ACM MM 2021. [[PDF](https://dl.acm.org/doi/10.1145/3474085.3475691)] [[Code](https://compatibilitymodel.wixsite.com/cto-net)]<br>
+
 ### 2020
 **Collocating Clothes With Generative Adversarial Networks Cosupervised by Categories and Attributes: A Multidiscriminator Framework.** <br> 
 *Linlin Liu, Haijun Zhang, Xiaofei Xu, Zhao Zhang, Shuicheng Yan.*<br>
 TNNLS 2020. [[PDF](https://ieeexplore.ieee.org/document/8891673)]<br>
+
 **Hierarchical Fashion Graph Network for Personalized Outfit Recommendation.** <br> 
 *Xingchen Li, Xiang Wang, Xiangnan He, Long Chen, Jun Xiao, Tat-Seng Chua.*<br>
 SIGIR 2020. [[PDF](https://dl.acm.org/doi/10.1145/3397271.3401080)] [[Code](https://github.com/xcppy/hierarchical_fashion_graph_network)]<br>
@@ -43,11 +48,10 @@ ICCV 2019. [[PDF](https://ieeexplore.ieee.org/document/9010857)]<br>
 **Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks.** <br> 
 *Zeyu Cui, Zekun Li, Shu Wu, Xiao-Yu Zhang, Liang Wang.*<br>
 WWW 2019. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313444)] [[Code](https://github.com/CRIPAC-DIG/NGNN)]<br>
+
 ### 2018
 
 ### 2017
-
-
 
 **Bi-LSTM Model for Learning Fashion Compatibility.** <br> 
 *Xintong Han, Zuxuan Wu, Yu-Gang Jiang, Larry S. Davis.*<br>
@@ -56,6 +60,7 @@ ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](htt
 ### 2016
 
 ### 2015
+
 **Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences.** <br>
 *Andreas Veit, Balazs Kovacs, Sean Bell, Julian McAuley, Kavita Bala, Serge Belongie.*<br>
 ICCV 2015. [[PDF](https://ieeexplore.ieee.org/document/7410884)] [[Code](https://github.com/appier/compatibility-family-learning)]<br>
