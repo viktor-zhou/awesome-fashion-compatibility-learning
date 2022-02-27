@@ -61,6 +61,10 @@ CVPR 2019. [[PDF](https://ieeexplore.ieee.org/abstract/document/8953357)] [[Code
 *Cong Yu, Yang Hu, Yan Chen, Bing Zeng.*<br>
 ICCV 2019. [[PDF](https://ieeexplore.ieee.org/document/9010857)]<br>
 
+**Enhancing Fashion Recommendation with Visual Compatibility Relationship.** <br> 
+*Ruiping Yin, Kan Li, Jie Lu, Guangquan Zhang.*<br>
+WWW 2019. [[PDF](https://dl.acm.org/doi/10.1145/3308558.3313739)]<br>
+
 **Dressing as a Whole: Outfit Compatibility Learning Based on Node-wise Graph Neural Networks.** <br> 
 *Zeyu Cui, Zekun Li, Shu Wu, Xiao-Yu Zhang, Liang Wang.*<br>
 WWW 2019. [[PDF](https://dl.acm.org/doi/fullHtml/10.1145/3308558.3313444)] [[Code](https://github.com/CRIPAC-DIG/NGNN)]<br>
