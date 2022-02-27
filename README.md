@@ -18,7 +18,7 @@ markdown format:
 ``` markdown
 **Here is the Paper Name.**<br>
 *[Author 1](homepage), Author 2, and Author 3.*<br>
-Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[Video](link)] [[Data](link)]
+Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Video](link)] [[Data](link)]
 ```
 
 ## Table of Contents
@@ -39,7 +39,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Github](link)] [[V
 
 **Bi-LSTM Model for Learning Fashion Compatibility.** <br> 
 *Xintong Han, Zuxuan Wu, Yu-Gang Jiang, Larry S. Davis.*<br>
-ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](https://github.com/xthan/polyvore) [Data](https://github.com/xthan/polyvore-dataset)]<br>
+ACM MM 2018. [[PDF](https://dl.acm.org/doi/10.1145/3123266.3123394)] [[Code](https://github.com/xthan/polyvore)] [[Data](https://github.com/xthan/polyvore-dataset)]<br>
 
 ### 2016
 
