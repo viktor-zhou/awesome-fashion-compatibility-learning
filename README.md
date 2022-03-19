@@ -3,7 +3,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-blue.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](http://makeapullrequest.com)
-![GitHub contributors](https://img.shields.io/github/contributors/fashion-intelligence/awesome-fashion-compatibility-learning?color=blue)
+![GitHub contributors](https://img.shields.io/github/contributors/viktor-zhou/awesome-fashion-compatibility-learning?color=blue)
 
 A collection of resources on fashion compatibility learning. 
 
@@ -126,7 +126,7 @@ SIGIR 2015. [[PDF](https://dl.acm.org/doi/10.1145/2766462.2767755)] [[Code](http
   author={Dongliang Zhou},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/fashion-intelligence/awesome-fashion-compatibility-learning}},
+  howpublished = {\url{https://github.com/viktor-zhou/awesome-fashion-compatibility-learning}},
   year={2022}
 }
 ```
