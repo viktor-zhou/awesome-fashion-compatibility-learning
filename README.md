@@ -28,7 +28,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Vid
 ### 2021
 **Attribute-wise Explainable Fashion Compatibility Modeling.** <br> 
 *Xin Yang, Xuemeng Song, Fuli Feng, Haokun Wen, Ling-Yu Duan, Liqiang Nie.*<br>
-TOMCCAP 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3425636)]<br>
+TOMM 2021. [[PDF](https://dl.acm.org/doi/abs/10.1145/3425636)]<br>
 
 **Collocation and Try-on Network: Whether an Outfit is Compatible.** <br> 
 *Na Zheng, Xuemeng Song, Qingying Niu, Xue Dong, Yibing Zhan, Liqiang Nie.*<br>
