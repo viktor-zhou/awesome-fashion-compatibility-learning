@@ -24,6 +24,9 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Vid
 ## Table of Contents
 
 ### 2022
+**A Graph Theoretic Approach for Multi-Objective Budget Constrained Capsule Wardrobe Recommendation.** <br> 
+*Shubham Patil, Debopriyo Banerjee, Shamik Sural.*<br>
+TOIS 2022. [[PDF](https://dl.acm.org/doi/abs/10.1145/3457182)] [[Code](https://github.com/debobanerjee/MOBCCWR)]<br>
 
 ### 2021
 **Attribute-wise Explainable Fashion Compatibility Modeling.** <br> 
